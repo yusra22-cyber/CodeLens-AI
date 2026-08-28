@@ -29,5 +29,3 @@ Built By
 
 Yusra — Frontend Developer
 
-[LinkedIn](your-linkedin) · [Fiverr](your-fiverr)
-
