@@ -1,16 +1,33 @@
-# React + Vite
+ 🔍 CodeLens AI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An AI-powered code review tool built with React and Groq API. 
+Paste your code and get instant feedback on bugs, security issues, 
+performance, and a refactored version all in seconds.
 
-Currently, two official plugins are available:
+Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+->  Bug & logical flaw detection
+->  Security issue analysis  
+->  Performance optimization tips
+->  AI-generated refactored code
+->  Ask follow-up questions about your review
+->  Dark / Light mode
+->  Visual summary with animated circles
 
-## React Compiler
+Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React 19
+- Tailwind CSS
+- Monaco Editor 
+- Groq API 
+- Vite
 
-## Expanding the ESLint configuration
+Live Demo
+https://code-lens-ai-av8i.vercel.app/
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Built By
+
+Yusra — Frontend Developer
+
+[LinkedIn](your-linkedin) · [Fiverr](your-fiverr)
+
