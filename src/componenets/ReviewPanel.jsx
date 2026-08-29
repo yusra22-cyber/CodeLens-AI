@@ -14,7 +14,7 @@ function ReviewPanel({review,loading,code}) {
 
       
       {loading && (
-        <div className="flex flex-col min-h-screen justify-center items-center gap-3">
+        <div className="flex flex-col mt-50 justify-center items-center gap-3">
             <div className="h-full flex items-center justify-center text-zinc-400 text-sm animate-pulse">
               Analyzing the code...
             </div>
